@@ -21,5 +21,5 @@ This project helped me understand how patterns work and how to be creative with 
 
 ---
 
- **Developed by:** Mohammad Ali  
+ **Developed by:** Shuvo Nath 
  **Date:** July 26, 2025
